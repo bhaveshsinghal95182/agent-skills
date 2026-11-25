@@ -43,7 +43,7 @@ be a trait.
 | Look at | Example finding |
 |---|---|
 | Sentence openings | "So", "Okay so", "Look" — never "Furthermore" |
-| Sentence length | 8–14 words; rarely more than one clause |
+| Sentence length | varies with the thought; never turn an observed range into a cap |
 | Caveats | stated plainly ("this isn't free") instead of hedged |
 | Technical words | "box" not "server"; "it just works" not "seamless" |
 | Person | talks to "you", not about "users" |
@@ -66,9 +66,10 @@ Five to eight traits. More than that and none of them are load-bearing.
 Voice is not only word choice. Capture how the person actually sounds, because it
 changes what the words can do:
 
-- **Energy level.** Flat and even, or animated? A flat narrator needs short,
-  complete sentences and understatement; an animated one can carry longer, looser
-  lines. Short does not mean fragmented: every line still finishes its thought.
+- **Energy level.** Flat and even, or animated? A flat narrator needs complete
+  sentences that carry their own shape and understatement; an animated one can
+  lean more on delivery. Length is not the lever in either case, and a fragment
+  is still a fragment.
 - **Range.** Can they do emphasis, sarcasm, warmth on demand? If not, nothing in
   the script may depend on it.
 - **Pace.** Do they rush, or leave gaps? Gaps are cut points.

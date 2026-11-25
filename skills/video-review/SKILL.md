@@ -31,8 +31,8 @@ Result on screen, stake stated, no throat-clearing. A greeting costs 2 points.
 
 **4. Clarity.** Can a viewer who half-watched still follow the steps?
 Every on-screen action named; no "as you can see"; numbers spoken the way they
-are written; one connected idea per sentence, in complete sentences. A stack of
-fragments is the first thing to flag here. The rule is in
+are written; complete, connected sentences whose length follows the thought. A
+stack of fragments is the first thing to flag here. The rule is in
 `../voice-dna/references/continuous-prose.md`.
 
 **5. AI tells.** Run `video-script-writing/scripts/check_script.py` on the

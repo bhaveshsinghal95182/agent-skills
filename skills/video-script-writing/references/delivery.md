@@ -16,7 +16,7 @@ doing something it will not do.**
 | "It's not a tool — it's a *workflow*" | the contrast vanishes; nothing lands |
 | "So… are you ready?" | rising intonation missing; sounds like an accusation |
 | three adjectives in a row ("fast, clean, reliable") | three stresses to place, none placed |
-| a 32-word sentence | the listener loses the thread halfway; monotone has no contour to hold them |
+| a 32-word sentence that changes subject halfway | the listener loses the thread; the problem is the thread, not the length |
 
 ## What works instead
 
@@ -26,10 +26,11 @@ emphasis, and it does not need a voice.
 **Understatement.** "It asked for a password it printed three lines earlier."
 Delivered evenly, that is dry humour. Delivered loudly, it is a complaint.
 
-**Short, complete sentences, in runs.** Six to twelve words. Periods are the
-performance: they force pitch resets, which is the only variation a monotone gets
-for free. A fragment is not a short sentence; it reads as a slide, and it loses
-the verb that made the thought a thought. The full rule is in
+**Sentences carry a connected thought.** The flat voice does not need short
+lines; it needs sentences that are complete and clearly built. Let a sentence run
+to the end of its thought, and split it only when it stumbles or loses the thread.
+A fragment is not a short sentence; it reads as a slide, and it loses the verb
+that made the thought a thought. The full rule is in
 `../../voice-dna/references/continuous-prose.md`.
 
 **The admission before the correction.** "I said the port was right. It wasn't."
@@ -66,9 +67,9 @@ next shot. The edit supplies the timing the voice doesn't.
 
 ## Practical rules
 
-1. **One claim per sentence.** A contrast joined by a comma is usually two
-   sentences; a cause, condition or detail can stay in the same one. Short does
-   not mean fractured, and every line still finishes its thought.
+1. **A sentence can carry a claim and its cause, condition or consequence.**
+   Split it only when the reader would lose the thread, not to keep every
+   sentence short. A fragment is never a sentence.
 2. **No exclamation marks.** None. They are instructions the voice won't follow.
 3. **No hype adjectives.** exciting, amazing, insane, crazy, incredible, awesome,
    unbelievable. Delete the adjective; keep the fact.

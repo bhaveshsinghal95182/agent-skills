@@ -19,8 +19,11 @@ came for.
   a comma, a conjunction or a relative clause.
 - **Keep one connected idea per paragraph.** Two to five sentences is the usual
   size. Start a new paragraph when the thought changes, not after every sentence.
-- **Vary the length.** A short sentence lands a point. A page of short sentences
-  has no point to land, because everything has the same weight.
+- **Let the length follow the thought.** A sentence ends when its thought is
+  complete, not when it hits a word count. A long sentence is fine when it stays
+  grammatical and the reader can follow it, and a short one is fine when the
+  thought really is short. What fails is a chopped thought or a page of
+  fragments.
 - **Do not stack labels.** "Problem: … Solution: … Tech: … Impact: …" is a
   portfolio card, not prose. Labels are fine in a genuinely parallel list of links
   or options.
@@ -29,9 +32,20 @@ came for.
   relationship is real, and noise when it is not.
 - **Do not open consecutive paragraphs the same way.** Repeated "I built… I
   used… I added…" is a list wearing paragraph clothes.
-- **Continuous does not mean long.** Split a run-on. In written prose, a sentence
-  over about 25 words usually carries two thoughts; in a script, one over about
-  20 words usually runs out of breath.
+- **Continuous does not mean careless.** Split a run-on when it loses its
+  subject, repeats itself or makes the reader re-read. Do not split a sentence
+  just because it is long; length is not the defect.
+
+## What this is not
+
+This is not a rule for short sentences, not one idea per sentence, and not an
+idea per breath. A sentence may carry a claim, its cause, its consequence and a
+qualification when they belong together. The only limits are grammar, clarity and
+the reader's ability to follow the thread.
+
+The reference implementation is the project prose in
+`../../engineering-job-application-emails/SKILL.md`: context, architecture, the
+difficult part and the outcome joined into whole sentences.
 
 ## Where the rule does not apply
 
@@ -100,12 +114,16 @@ workflow is.
 ## Video scripts and spoken prose
 
 The continuous rule survives the change of medium. A script is still made of
-sentences, and the sentences still have to connect. The extra constraint is
-breath: if a sentence cannot be said in one go, split it. Splitting a run-on is
-not the same as shredding it into fragments.
+sentences, and the sentences still have to connect. The extra constraint is the
+mouth: a sentence has to survive being read aloud, which is a test for stumbles
+and lost threads, not a licence to chop a long sentence into short ones. A
+sentence can run for several clauses when it stays grammatical and the narrator
+can carry it.
 
-Short complete sentences are the workhorse for a flat delivery. "The port was
-wrong." is a sentence. "Wrong port." is a fragment, and it reads as a slide.
+A flat delivery does not need short sentences; it needs sentences that are
+complete and clearly built. "The port was wrong." is a sentence, and so is a
+longer sentence that carries the cause and the consequence. "Wrong port." is a
+fragment, and it reads as a slide.
 
 **Choppy:**
 > Forty minutes. Broken stack to working stack. Same laptop.
@@ -140,6 +158,6 @@ mean. A bold label followed by a clipped phrase is not an explanation.
 - [ ] Paragraphs hold one connected idea and break when the thought changes.
 - [ ] No "Problem: / Solution:" stacks outside a real list.
 - [ ] Consecutive paragraphs do not open the same way.
-- [ ] Short sentences are used for emphasis, not as the default.
-- [ ] No run-ons; anything over about 25 words has earned its length.
+- [ ] Length follows the thought; no sentence is shortened to hit a word count.
+- [ ] No run-ons; a long sentence stays grammatical and keeps its thread.
 - [ ] Read aloud, it sounds like one person explaining something.

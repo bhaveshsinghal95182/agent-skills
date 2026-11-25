@@ -9,15 +9,16 @@ A script is instructions for two people: a voice that has to say it out loud, an
 an editor who has to cut picture to it. Every rule here serves those two.
 
 The failure mode is text that reads fine on a page and collapses when spoken:
-sentences that run out of breath, abstract nouns nobody can picture, and
+sentences that lose their thread, abstract nouns nobody can picture, and
 transitions nobody would say ("moreover, this underscores the importance of…").
-If a line cannot be said in one breath, it is not a line yet.
+If a line stumbles in the mouth or loses its thread, it is not a line yet. Length
+is not the test.
 
 **Continuous sentences are non-negotiable.** A script is still prose: every
 sentence is complete and connected, and related facts join into one sentence
-instead of a fragment per line. The breath rule splits run-ons; it is not a
-licence to write fragments. The full rule, with examples, is in
-`../voice-dna/references/continuous-prose.md`.
+instead of a fragment per line. The run-on test splits a sentence that loses its
+thread; it is not a licence to write fragments. The full rule, with examples, is
+in `../voice-dna/references/continuous-prose.md`.
 
 ## Workflow
 
@@ -88,10 +89,11 @@ sections wearing a coat.
 
 ## Writing for the mouth
 
-**One connected idea per sentence.** Two clauses joined by "and" are usually two
-sentences, but a fragment is never one of them. Keep the subject and the verb,
-and join facts that describe the same action or decision. A breath is the limit,
-not a target.
+**Continuous sentences.** A sentence can carry a claim, its cause and its
+consequence when they belong together. Keep the subject and the verb, join facts
+that describe the same action or decision, and split only when the sentence
+becomes a run-on or the listener would lose the thread. A fragment is never a
+sentence, and length is not the target.
 
 **Subject first.** "Claude pulled every image" not "Every image was pulled".
 
@@ -120,8 +122,8 @@ process is the fastest way to lose a technical audience.
 
 If the narrator is flat, monotone, or uncomfortable performing, read
 `references/delivery.md` before drafting. The short version: no line may depend on
-vocal emphasis, hype words read as sarcasm, and short, complete sentences do the work that
-intonation would do.
+vocal emphasis, hype words read as sarcasm, and the sentence itself has to carry
+the shape that intonation would carry.
 
 If the narrator would rather riff than read, write the **bullet script** instead —
 see `references/bullet-script.md`. Only the first line is word-for-word; the rest
@@ -172,7 +174,8 @@ Deliver so the narrator thinks about nothing except talking:
 ## Self-check
 
 1. Does the first sentence show the result or the setup?
-2. Count sentences over 25 words. Split them.
+2. Look for run-ons: a sentence that loses its subject or needs a re-read. Fix
+   that sentence, not every long one.
 3. Is every line a complete sentence, with related facts joined rather than
    scattered one per line?
 4. Every number and acronym written the way it is spoken?

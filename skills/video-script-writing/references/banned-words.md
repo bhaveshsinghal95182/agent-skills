@@ -298,9 +298,10 @@ fine on a page and dead in the mouth:
 - **Exclamation marks and hype words** — "exciting", "amazing", "insane", "crazy".
   Delivered flat they read as sarcasm or disappointment. Cut the word, not the
   tone.
-- **Long sentences** — a monotone voice has no intonation contour to carry the
-  listener across 30 words. Short sentences reset the pitch, which is the only
-  energy a flat voice gets for free.
+- **Sentences that lose their thread** — a monotone voice has no intonation
+  contour to rescue a shapeless line. The problem is a sentence that changes
+  subject or forgets where it started, not one that runs long. A long sentence
+  with one connected thought is fine.
 - **Stacked adjectives** — three descriptors in a row need three stresses.
 
 **What replaces them:** specifics, understatement, and punctuation. A dry fact

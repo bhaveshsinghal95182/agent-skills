@@ -87,8 +87,8 @@ Source: `video-outline`.
 8. **Specific detail present.** A port, a number, a folder, a failure.
 9. **Continuous sentences.** Every line is complete and connected. A fragment
    stack ("Four runtimes. Fifty runs. One bug.") is a fail, and so is a "Problem:
-   / Solution:" stack outside a real list. See
-   `../voice-dna/references/continuous-prose.md`.
+   / Solution:" stack outside a real list. A long sentence is not a fail by
+   itself. See `../voice-dna/references/continuous-prose.md`.
 10. **Paragraph format**, not bullets, unless the format is a deliberate framework.
 11. **Word count.** 200 typical, 300 max.
 

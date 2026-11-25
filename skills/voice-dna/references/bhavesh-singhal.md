@@ -19,11 +19,11 @@ is *for*:
 - **Understatement is the register.** A dry fact delivered evenly is funnier,
   calmer, and more credible than an enthusiastic adjective. "That took forty
   minutes" beats "that was insanely fast".
-- **Short sentences reset the pitch.** A monotone has no contour to carry a
-  listener across thirty words. Periods are pacing, not grammar.
-- **Punctuation is the performance.** Commas are beats, periods are stops. Use
-  more periods than a written essay would, but never in the middle of a single
-  thought: a period ends a sentence, it does not chop one into fragments.
+- **The sentence carries the shape.** A flat voice has no intonation contour to
+  rescue a shapeless line, so the sentence itself has to be well built. Length is
+  not the problem; a lost thread is.
+- **Punctuation follows the thought.** Commas mark the joins inside a sentence,
+  and periods end it. A period does not chop one thought into fragments.
 
 ## Voice traits
 
@@ -57,10 +57,13 @@ it sit, rather than telling the viewer how to feel.
 
 ## Sentence mechanics
 
-- **Length:** 6–14 words typical in the mouth. Anything over 20 gets split.
+- **Length:** follows the thought. A sentence can run for several clauses when
+  they belong together; split it only when it becomes a run-on or the listener
+  would lose the thread. Do not copy the short lines of unscripted speech into
+  written prose.
 - **Continuous:** every sentence is complete and connected, and closely related
-  facts join into one sentence instead of a fragment per line. Short is the
-  rhythm; choppy is not the style. A line like "Wrong port." is a slide, not a
+  facts join into one sentence instead of a fragment per line. Length follows the
+  thought; choppy is not the style. A line like "Wrong port." is a slide, not a
   sentence. Full rule: `continuous-prose.md`.
 - **Openers:** "So", "Okay", "Now", "This", or the noun itself. Never "Furthermore".
 - **Person:** first person singular for what he did, second person for what the
@@ -113,8 +116,8 @@ Beyond `video-script-writing/references/banned-words.md`:
 > Claude.") instead of hiding it. Flat delivery turns that beat into deadpan.
 
 > "I said the port was right. It wasn't."
-> **Why:** two short sentences, the admission before the correction. This is the
-> shape most of his best material takes — and it needs no vocal performance at
+> **Why:** two complete sentences, the admission before the correction. This is
+> the shape most of his best material takes — and it needs no vocal performance at
 > all.
 
 ## Good vs bad

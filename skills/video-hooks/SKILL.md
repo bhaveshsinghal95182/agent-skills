@@ -14,8 +14,9 @@ Two different jobs, often confused:
 A greeting at the top destroys both. It asks the viewer to wait for the interesting
 part, and the interesting part is the only thing that has ever held anyone.
 
-Every line here is a complete sentence. A hook is short, not broken, and related
-facts join into one sentence instead of a fragment per line. The shared rule is in
+Every line here is a complete sentence. A hook can be one sentence or two, and
+its length follows the thought; it cannot be a fragment. Related facts join into
+one sentence instead of a fragment per line. The shared rule is in
 `../voice-dna/references/continuous-prose.md`.
 
 ## The intro formula
@@ -79,8 +80,8 @@ Rules that follow from a flat delivery:
   the voice won't give. Assert the second half.
 - **Let the failure carry the emotion.** "It crashed on the fourth reboot" is
   dramatic on its own; you do not have to sell it.
-- **Say less than feels right.** A flat voice plus a short sentence is deadpan. A
-  flat voice plus a long sentence is a lecture.
+- **Say less than feels right.** A flat voice plus understatement is deadpan; a
+  flat voice plus a sentence that explains itself twice is a lecture.
 
 ## The energy handoff
 

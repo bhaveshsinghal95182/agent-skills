@@ -24,7 +24,7 @@ done? Not a job title — the thing that earns them the right to explain this.]
 (5–8. Each one has to be observable in a transcript.)
 
 ## Sentence mechanics
-- length: [range], complete connected sentences, never fragments
+- length: follows the thought; no fixed cap, never fragments
 - joins: [how they connect related facts — comma, "and", a relative clause]
 - opens with: [markers they actually use]
 - person: [first/second], tense: [past for events, present for facts]

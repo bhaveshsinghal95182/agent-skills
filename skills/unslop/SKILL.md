@@ -32,7 +32,7 @@ Rule numbers are stable ids that other skills cite. A removed rule leaves a gap.
 25. No generic conclusions. State specific plans or facts.
 26. No abstract metaphor nouns: substrate, wedge, vector, nexus, primitive, harness, surface, scaffolding, paradigm, ratchet, north star, flywheel. Use the concrete word.
 27. Say what it does, not how it feels. Name the mechanism or the number. Cut a sentence that could appear unchanged in another project's docs.
-28. One connected idea per sentence. Split a run-on the reader has to reread; do not split a single thought into fragments.
+28. Write complete sentences. Split a run-on the reader has to reread; do not split a sentence for length alone, and never leave a fragment standing in for a sentence.
 29. Active voice. Name the actor unless it is unknown or doesn't matter.
 30. Cut adverbs or use a stronger verb. Give the number.
 31. Use the plain word: "use", not "utilize" or "leverage".

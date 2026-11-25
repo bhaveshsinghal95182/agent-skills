@@ -16,7 +16,7 @@ Write so a tired engineer understands on the first read.
 
 ## Vary the rhythm
 
-- Mix sentence lengths. Split the sentence that carries two thoughts. Keep the long sentence that carries one.
+- Mix sentence lengths. Split a sentence that loses the reader; keep a long sentence that carries one thought.
 - Have a view in explanation. Keep reference dry.
 - Be specific. Not "schema changes can cause issues" but "a column rename fails the build".
 
@@ -24,8 +24,7 @@ Write so a tired engineer understands on the first read.
 
 - Every sentence has a subject and a verb and finishes its thought. A heading, a table cell or a bold label is not a sentence.
 - Join facts that describe the same thing, the same decision or the same consequence into one sentence. A paragraph of one clipped fact per line is a list in disguise.
-- One connected idea per sentence, and one connected idea per paragraph. Short is fine; choppy is not.
-- "One thought per sentence" is about how much the reader has to hold at once, not permission to drop the verb.
+- A sentence can carry several connected ideas when they belong together, and a paragraph carries one line of thought. Length follows the thought; split only when the reader would lose the thread.
 - The full rule, with before-and-after examples: `../voice-dna/references/continuous-prose.md`.
 
 ## Pick the mode first (Diátaxis)
@@ -51,8 +50,8 @@ One document, one mode. Don't mix modes. Split and link instead.
 
 ## Make statements load one at a time (STE rules)
 
-- One instruction per sentence. One connected thought per sentence everywhere else; a fragment is not a sentence.
-- Split instructions longer than about 20 words and other sentences longer than about 25.
+- Keep each instruction to one action. A sentence stays complete and connected; a fragment is not a sentence.
+- Split an instruction when it asks for more than one action. Split any sentence that loses its subject or makes the reader re-read, not one that is merely long.
 - Put the warning or condition before the step it guards.
 - Keep "the" and "a".
 - Give each word one meaning, and pick one word per action.
